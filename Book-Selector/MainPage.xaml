@@ -68,8 +68,8 @@
         <Image x:Name="TwilightSeries" Visibility="Collapsed" Source="Images/TwilightSeries.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
         <Image x:Name="WarmBodiesBook" Visibility="Collapsed" Source="Images/WarmBodiesBook.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
 
-        <!-- Button the user presses to rchoose a random book from the generator -->
-        <Button x:Name="btnRandom" x:Uid="uidBtnRandom" Content="Choose a random book!" HorizontalAlignment="Left" Margin="82,46,0,0" VerticalAlignment="Top" Height="58" Width="194" Click="btnRandom_Click"/>
-        <Button x:Name="btnSearchAgain" x:Uid="uidBtnRandom" Content="Choose a random book!" HorizontalAlignment="Left" Margin="82,46,0,0" VerticalAlignment="Top" Height="58" Width="194" Click="btnSearchAgain_Click"/>
+        <!-- Button the user presses to choose a random book from the generator -->
+        <Button x:Name="btnRandom" x:Uid="uidBtnRandom" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="82,46,0,0" VerticalAlignment="Top" Height="58" Width="200" Click="btnRandom_Click"/>
+        <Button x:Name="btnSearchAgain" x:Uid="uidBtnSearchAgain" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="82,46,0,0" VerticalAlignment="Top" Height="58" Width="200" Click="btnSearchAgain_Click"/>
     </Grid>
 </Page>

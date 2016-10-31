@@ -12,7 +12,7 @@
   <Properties>
     <DisplayName>Book-Selector</DisplayName>
     <PublisherDisplayName>owner</PublisherDisplayName>
-    <Logo>Assets\StoreLogo.png</Logo>
+    <Logo>Assets\Logo.png</Logo>
   </Properties>
   <Dependencies>
     <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.10240.0" MaxVersionTested="10.0.10586.0" />
@@ -21,12 +21,24 @@
   </Dependencies>
   <Resources>
     <Resource Language="EN-US" />
+    <Resource Language="ES-ES" />
+    <Resource Language="FR-FR" />
+    <Resource Language="GA-IE" />
+    <Resource Language="IT-IT" />
   </Resources>
   <Applications>
     <Application Id="App" Executable="Book-Selector.exe" EntryPoint="Book_Selector.App">
       <uap:VisualElements DisplayName="Book-Selector" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="Book-Selector" BackgroundColor="transparent">
-        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" />
+        <uap:LockScreen Notification="badgeAndTileText" BadgeLogo="Assets\BadgeLogo.png" />
+        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square310x310Logo="Assets\Square310x310Logo.png" Square71x71Logo="Assets\Square71x71Logo.png">
+          <uap:ShowNameOnTiles>
+            <uap:ShowOn Tile="square310x310Logo" />
+          </uap:ShowNameOnTiles>
+        </uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
+        <uap:InitialRotationPreference>
+          <uap:Rotation Preference="landscape" />
+        </uap:InitialRotationPreference>
       </uap:VisualElements>
     </Application>
   </Applications>

@@ -10,13 +10,13 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>f3e68e7a-1f7d-4def-8c08-65facd5e717d</PackageIdentityName>
     <PackageIdentityPublisher>CN=owner</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>6BF1680F5322E881E330ACE91E2F8745995E8B2AB34AF1A46802603D77B19548</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>C097F6E34462E0EAD4A9BF0146B4156270A624F47FD867E8FDBB2EC356B8E98F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>f3e68e7a-1f7d-4def-8c08-65facd5e717d_1.0.0.0_x64__xp10nbj12f0ca</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>f3e68e7a-1f7d-4def-8c08-65facd5e717d_xp10nbj12f0ca!App</RegisteredUserModeAppID>
     <RegisteredPackageID>f3e68e7a-1f7d-4def-8c08-65facd5e717d</RegisteredPackageID>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-29T16:30:13.150</Modified>
+      <Modified>2016-10-31T19:04:30.829</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\bin\x64\Debug\Book-Selector.exe">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Book-Selector.exe">
       <PackagePath>entrypoint\Book-Selector.exe</PackagePath>
-      <Modified>2016-10-29T16:30:09.667</Modified>
+      <Modified>2016-10-31T19:04:26.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -460,296 +460,378 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-02-08T17:47:08.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
       <Modified>2016-10-11T16:43:49.039</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\AboutABoy.jpg">
-      <PackagePath>Images\AboutABoy.jpg</PackagePath>
-      <Modified>2016-10-29T14:07:35.023</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T17:58:30.684</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\AngelasAshes.jpg">
-      <PackagePath>Images\AngelasAshes.jpg</PackagePath>
-      <Modified>2016-10-29T14:20:55.910</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\BadgeLogo.scale-125.png">
+      <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T17:59:21.646</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\BlackBeauty.jpg">
-      <PackagePath>Images\BlackBeauty.jpg</PackagePath>
-      <Modified>2016-10-12T11:03:09.236</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\BadgeLogo.scale-150.png">
+      <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T18:00:05.583</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\BridgetJonesDiary.jpg">
-      <PackagePath>Images\BridgetJonesDiary.jpg</PackagePath>
-      <Modified>2016-10-29T14:41:17.667</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T18:00:49.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\BridgetJonesEdgeofReason.jpg">
-      <PackagePath>Images\BridgetJonesEdgeofReason.jpg</PackagePath>
-      <Modified>2016-10-29T14:40:28.381</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T18:01:40.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\BridgetJonesMadAbouttheBoy.jpg">
-      <PackagePath>Images\BridgetJonesMadAbouttheBoy.jpg</PackagePath>
-      <Modified>2016-10-29T14:39:35.626</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T18:53:12.278</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\CuriousIncidentDogInNight.jpg">
-      <PackagePath>Images\CuriousIncidentDogInNight.jpg</PackagePath>
-      <Modified>2016-10-29T14:25:58.953</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T18:32:05.297</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\DarkPlaces.jpg">
-      <PackagePath>Images\DarkPlaces.jpg</PackagePath>
-      <Modified>2016-10-12T10:56:44.864</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T17:52:26.130</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\DexterBookSeries.jpg">
-      <PackagePath>Images\DexterBookSeries.jpg</PackagePath>
-      <Modified>2016-10-12T10:38:30.935</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T17:50:06.505</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\EnidBlytonFarawayTree.jpg">
-      <PackagePath>Images\EnidBlytonFarawayTree.jpg</PackagePath>
-      <Modified>2016-10-12T10:49:40.668</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T17:55:55.950</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\EnidBlytonMaloryTowers.jpg">
-      <PackagePath>Images\EnidBlytonMaloryTowers.jpg</PackagePath>
-      <Modified>2016-10-12T10:45:19.597</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T18:46:18.923</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\EnidBlytonSecretSeven.jpg">
-      <PackagePath>Images\EnidBlytonSecretSeven.jpg</PackagePath>
-      <Modified>2016-10-12T10:46:09.286</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T18:43:49.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\EnidBlytonStClares.jpg">
-      <PackagePath>Images\EnidBlytonStClares.jpg</PackagePath>
-      <Modified>2016-10-12T10:51:47.097</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T18:00:49.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\EnidBlytonWishingChairSeries.jpg">
-      <PackagePath>Images\EnidBlytonWishingChairSeries.jpg</PackagePath>
-      <Modified>2016-10-12T10:47:27.593</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T18:47:11.534</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\GameofThronesSeries.jpg">
-      <PackagePath>Images\GameofThronesSeries.jpg</PackagePath>
-      <Modified>2016-10-12T10:53:21.144</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <Modified>2016-10-31T18:53:12.278</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\GoneGirl.jpg">
-      <PackagePath>Images\GoneGirl.jpg</PackagePath>
-      <Modified>2016-10-12T10:55:27.941</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <Modified>2016-10-31T18:37:10.534</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\GoSetAWatchman.jpg">
-      <PackagePath>Images\GoSetAWatchman.jpg</PackagePath>
-      <Modified>2016-10-29T14:17:33.870</Modified>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T18:45:04.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\Hannibal.jpg">
-      <PackagePath>Images\Hannibal.jpg</PackagePath>
-      <Modified>2016-10-29T14:14:31.672</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\HungerGamesTrilogy.jpg">
-      <PackagePath>Images\HungerGamesTrilogy.jpg</PackagePath>
-      <Modified>2016-10-12T10:39:19.064</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\JKRowlingCasualVacancy.jpg">
-      <PackagePath>Images\JKRowlingCasualVacancy.jpg</PackagePath>
-      <Modified>2016-10-12T10:36:50.621</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\LordOfTheRingsSeries.jpg">
-      <PackagePath>Images\LordOfTheRingsSeries.jpg</PackagePath>
-      <Modified>2016-10-12T10:52:46.458</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\MichaelOHigginsSnapshots.jpg">
-      <PackagePath>Images\MichaelOHigginsSnapshots.jpg</PackagePath>
-      <Modified>2016-10-12T10:58:14.743</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\NarniaBooks.jpg">
-      <PackagePath>Images\NarniaBooks.jpg</PackagePath>
-      <Modified>2016-10-12T11:04:39.555</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\OneDay.jpg">
-      <PackagePath>Images\OneDay.jpg</PackagePath>
-      <Modified>2016-10-29T14:25:11.633</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\Philomena.jpg">
-      <PackagePath>Images\Philomena.jpg</PackagePath>
-      <Modified>2016-10-29T14:27:57.472</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\RoaldDahlChocFactory.jpg">
-      <PackagePath>Images\RoaldDahlChocFactory.jpg</PackagePath>
-      <Modified>2016-10-12T11:02:33.173</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\RoaldDahlFantasticMrFox.jpg">
-      <PackagePath>Images\RoaldDahlFantasticMrFox.jpg</PackagePath>
-      <Modified>2016-10-12T11:00:19.119</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\RoaldDahlGiantPeach.jpg">
-      <PackagePath>Images\RoaldDahlGiantPeach.jpg</PackagePath>
-      <Modified>2016-10-12T11:01:38.282</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\RoaldDahlMatilda.jpg">
-      <PackagePath>Images\RoaldDahlMatilda.jpg</PackagePath>
-      <Modified>2016-10-12T10:59:47.115</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\RoaldDahlTheBFG.jpg">
-      <PackagePath>Images\RoaldDahlTheBFG.jpg</PackagePath>
-      <Modified>2016-10-12T11:01:07.859</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\StephenKingCarrie.jpg">
-      <PackagePath>Images\StephenKingCarrie.jpg</PackagePath>
-      <Modified>2016-10-12T10:28:05.441</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\StephenKingCujo.jpg">
-      <PackagePath>Images\StephenKingCujo.jpg</PackagePath>
-      <Modified>2016-10-12T10:21:29.154</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\StephenKingDoloresClaiborne.jpg">
-      <PackagePath>Images\StephenKingDoloresClaiborne.jpg</PackagePath>
-      <Modified>2016-10-12T10:27:24.582</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\StephenKingIt.jpg">
-      <PackagePath>Images\StephenKingIt.jpg</PackagePath>
-      <Modified>2016-10-12T10:20:31.102</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\StephenKingMisery.jpg">
-      <PackagePath>Images\StephenKingMisery.jpg</PackagePath>
-      <Modified>2016-10-12T10:20:59.762</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\StephenKingTheBody.jpg">
-      <PackagePath>Images\StephenKingTheBody.jpg</PackagePath>
-      <Modified>2016-10-12T10:26:17.051</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\StephenKingTheGreenMile.jpg">
-      <PackagePath>Images\StephenKingTheGreenMile.jpg</PackagePath>
-      <Modified>2016-10-12T10:22:00.150</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\StephenKingTheShawshankRedemption.jpg">
-      <PackagePath>Images\StephenKingTheShawshankRedemption.jpg</PackagePath>
-      <Modified>2016-10-12T10:23:02.292</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\StephenKingUnderTheDome.jpg">
-      <PackagePath>Images\StephenKingUnderTheDome.jpg</PackagePath>
-      <Modified>2016-10-12T10:24:56.516</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\TheBeanoAnnual.jpg">
-      <PackagePath>Images\TheBeanoAnnual.jpg</PackagePath>
-      <Modified>2016-10-29T14:06:37.337</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\TheBookTheif.jpg">
-      <PackagePath>Images\TheBookTheif.jpg</PackagePath>
-      <Modified>2016-10-29T14:05:22.047</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\TheButcherBoy.jpg">
-      <PackagePath>Images\TheButcherBoy.jpg</PackagePath>
-      <Modified>2016-10-29T14:22:56.028</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\TheDaVinciCodeBookSeries.jpg">
-      <PackagePath>Images\TheDaVinciCodeBookSeries.jpg</PackagePath>
-      <Modified>2016-10-29T14:31:09.842</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\TheHost.jpg">
-      <PackagePath>Images\TheHost.jpg</PackagePath>
-      <Modified>2016-10-29T14:28:30.757</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\TheLovelyBones.jpg">
-      <PackagePath>Images\TheLovelyBones.jpg</PackagePath>
-      <Modified>2016-10-29T14:26:49.097</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\ToKillAMockingbird.jpg">
-      <PackagePath>Images\ToKillAMockingbird.jpg</PackagePath>
-      <Modified>2016-10-29T14:15:19.199</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\TwilightSeries.jpg">
-      <PackagePath>Images\TwilightSeries.jpg</PackagePath>
-      <Modified>2016-10-12T10:43:10.866</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\WarmBodiesBook.jpg">
-      <PackagePath>Images\WarmBodiesBook.jpg</PackagePath>
-      <Modified>2016-10-12T10:59:16.162</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\EnidBlytonFamousFiveSeries.jpeg">
-      <PackagePath>Images\EnidBlytonFamousFiveSeries.jpeg</PackagePath>
-      <Modified>2016-10-12T10:46:40.399</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\JKRowlingHarryPotterSeries.jpeg">
-      <PackagePath>Images\JKRowlingHarryPotterSeries.jpeg</PackagePath>
-      <Modified>2016-10-12T10:40:55.670</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\MySistersKeeper.jpeg">
-      <PackagePath>Images\MySistersKeeper.jpeg</PackagePath>
-      <Modified>2016-10-29T14:18:02.371</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\PsILoveYou.jpeg">
-      <PackagePath>Images\PsILoveYou.jpeg</PackagePath>
-      <Modified>2016-10-29T14:19:47.736</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\StephenKingTheGirlWhoLovedTomGordon.jpeg">
-      <PackagePath>Images\StephenKingTheGirlWhoLovedTomGordon.jpeg</PackagePath>
-      <Modified>2016-10-12T10:24:23.414</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\TheBoyintheStripedPyjamas.jpeg">
-      <PackagePath>Images\TheBoyintheStripedPyjamas.jpeg</PackagePath>
-      <Modified>2016-10-29T14:18:42.441</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\TheSecretGarden.jpeg">
-      <PackagePath>Images\TheSecretGarden.jpeg</PackagePath>
-      <Modified>2016-10-12T11:03:28.736</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\TheTimeTravelersWife.jpeg">
-      <PackagePath>Images\TheTimeTravelersWife.jpeg</PackagePath>
-      <Modified>2016-10-29T14:23:53.757</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\LifeOfPi.png">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\LifeOfPi.png">
       <PackagePath>Images\LifeOfPi.png</PackagePath>
       <Modified>2016-10-29T14:23:36.981</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Images\TheGirlontheTrain.png">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\TheGirlontheTrain.png">
       <PackagePath>Images\TheGirlontheTrain.png</PackagePath>
       <Modified>2016-10-12T10:54:29.965</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-10-10T21:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
+      <Modified>2016-10-31T17:54:16.126</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
+      <Modified>2016-10-31T19:03:58.360</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
+      <Modified>2016-10-31T19:00:47.495</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
+      <Modified>2016-10-31T17:58:30.684</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
+      <Modified>2016-10-31T18:35:29.442</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T21:09:42.000</Modified>
+      <Modified>2016-10-31T19:02:45.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\AboutABoy.jpg">
+      <PackagePath>Images\AboutABoy.jpg</PackagePath>
+      <Modified>2016-10-29T14:07:35.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\AngelasAshes.jpg">
+      <PackagePath>Images\AngelasAshes.jpg</PackagePath>
+      <Modified>2016-10-29T14:20:55.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\BlackBeauty.jpg">
+      <PackagePath>Images\BlackBeauty.jpg</PackagePath>
+      <Modified>2016-10-12T11:03:09.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\BridgetJonesDiary.jpg">
+      <PackagePath>Images\BridgetJonesDiary.jpg</PackagePath>
+      <Modified>2016-10-29T14:41:17.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\BridgetJonesEdgeofReason.jpg">
+      <PackagePath>Images\BridgetJonesEdgeofReason.jpg</PackagePath>
+      <Modified>2016-10-29T14:40:28.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\BridgetJonesMadAbouttheBoy.jpg">
+      <PackagePath>Images\BridgetJonesMadAbouttheBoy.jpg</PackagePath>
+      <Modified>2016-10-29T14:39:35.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\CuriousIncidentDogInNight.jpg">
+      <PackagePath>Images\CuriousIncidentDogInNight.jpg</PackagePath>
+      <Modified>2016-10-29T14:25:58.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\DarkPlaces.jpg">
+      <PackagePath>Images\DarkPlaces.jpg</PackagePath>
+      <Modified>2016-10-12T10:56:44.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\DexterBookSeries.jpg">
+      <PackagePath>Images\DexterBookSeries.jpg</PackagePath>
+      <Modified>2016-10-12T10:38:30.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\EnidBlytonFarawayTree.jpg">
+      <PackagePath>Images\EnidBlytonFarawayTree.jpg</PackagePath>
+      <Modified>2016-10-12T10:49:40.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\EnidBlytonMaloryTowers.jpg">
+      <PackagePath>Images\EnidBlytonMaloryTowers.jpg</PackagePath>
+      <Modified>2016-10-12T10:45:19.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\EnidBlytonSecretSeven.jpg">
+      <PackagePath>Images\EnidBlytonSecretSeven.jpg</PackagePath>
+      <Modified>2016-10-12T10:46:09.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\EnidBlytonStClares.jpg">
+      <PackagePath>Images\EnidBlytonStClares.jpg</PackagePath>
+      <Modified>2016-10-12T10:51:47.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\EnidBlytonWishingChairSeries.jpg">
+      <PackagePath>Images\EnidBlytonWishingChairSeries.jpg</PackagePath>
+      <Modified>2016-10-12T10:47:27.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\GameofThronesSeries.jpg">
+      <PackagePath>Images\GameofThronesSeries.jpg</PackagePath>
+      <Modified>2016-10-12T10:53:21.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\GoneGirl.jpg">
+      <PackagePath>Images\GoneGirl.jpg</PackagePath>
+      <Modified>2016-10-12T10:55:27.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\GoSetAWatchman.jpg">
+      <PackagePath>Images\GoSetAWatchman.jpg</PackagePath>
+      <Modified>2016-10-29T14:17:33.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\Hannibal.jpg">
+      <PackagePath>Images\Hannibal.jpg</PackagePath>
+      <Modified>2016-10-29T14:14:31.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\HungerGamesTrilogy.jpg">
+      <PackagePath>Images\HungerGamesTrilogy.jpg</PackagePath>
+      <Modified>2016-10-12T10:39:19.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\JKRowlingCasualVacancy.jpg">
+      <PackagePath>Images\JKRowlingCasualVacancy.jpg</PackagePath>
+      <Modified>2016-10-12T10:36:50.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\LordOfTheRingsSeries.jpg">
+      <PackagePath>Images\LordOfTheRingsSeries.jpg</PackagePath>
+      <Modified>2016-10-12T10:52:46.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\MichaelOHigginsSnapshots.jpg">
+      <PackagePath>Images\MichaelOHigginsSnapshots.jpg</PackagePath>
+      <Modified>2016-10-12T10:58:14.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\NarniaBooks.jpg">
+      <PackagePath>Images\NarniaBooks.jpg</PackagePath>
+      <Modified>2016-10-12T11:04:39.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\OneDay.jpg">
+      <PackagePath>Images\OneDay.jpg</PackagePath>
+      <Modified>2016-10-29T14:25:11.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\Philomena.jpg">
+      <PackagePath>Images\Philomena.jpg</PackagePath>
+      <Modified>2016-10-29T14:27:57.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\RoaldDahlChocFactory.jpg">
+      <PackagePath>Images\RoaldDahlChocFactory.jpg</PackagePath>
+      <Modified>2016-10-12T11:02:33.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\RoaldDahlFantasticMrFox.jpg">
+      <PackagePath>Images\RoaldDahlFantasticMrFox.jpg</PackagePath>
+      <Modified>2016-10-12T11:00:19.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\RoaldDahlGiantPeach.jpg">
+      <PackagePath>Images\RoaldDahlGiantPeach.jpg</PackagePath>
+      <Modified>2016-10-12T11:01:38.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\RoaldDahlMatilda.jpg">
+      <PackagePath>Images\RoaldDahlMatilda.jpg</PackagePath>
+      <Modified>2016-10-12T10:59:47.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\RoaldDahlTheBFG.jpg">
+      <PackagePath>Images\RoaldDahlTheBFG.jpg</PackagePath>
+      <Modified>2016-10-12T11:01:07.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\StephenKingCarrie.jpg">
+      <PackagePath>Images\StephenKingCarrie.jpg</PackagePath>
+      <Modified>2016-10-12T10:28:05.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\StephenKingCujo.jpg">
+      <PackagePath>Images\StephenKingCujo.jpg</PackagePath>
+      <Modified>2016-10-12T10:21:29.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\StephenKingDoloresClaiborne.jpg">
+      <PackagePath>Images\StephenKingDoloresClaiborne.jpg</PackagePath>
+      <Modified>2016-10-12T10:27:24.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\StephenKingIt.jpg">
+      <PackagePath>Images\StephenKingIt.jpg</PackagePath>
+      <Modified>2016-10-12T10:20:31.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\StephenKingMisery.jpg">
+      <PackagePath>Images\StephenKingMisery.jpg</PackagePath>
+      <Modified>2016-10-12T10:20:59.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\StephenKingTheBody.jpg">
+      <PackagePath>Images\StephenKingTheBody.jpg</PackagePath>
+      <Modified>2016-10-12T10:26:17.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\StephenKingTheGreenMile.jpg">
+      <PackagePath>Images\StephenKingTheGreenMile.jpg</PackagePath>
+      <Modified>2016-10-12T10:22:00.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\StephenKingTheShawshankRedemption.jpg">
+      <PackagePath>Images\StephenKingTheShawshankRedemption.jpg</PackagePath>
+      <Modified>2016-10-12T10:23:02.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\StephenKingUnderTheDome.jpg">
+      <PackagePath>Images\StephenKingUnderTheDome.jpg</PackagePath>
+      <Modified>2016-10-12T10:24:56.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\TheBeanoAnnual.jpg">
+      <PackagePath>Images\TheBeanoAnnual.jpg</PackagePath>
+      <Modified>2016-10-29T14:06:37.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\TheBookTheif.jpg">
+      <PackagePath>Images\TheBookTheif.jpg</PackagePath>
+      <Modified>2016-10-29T14:05:22.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\TheButcherBoy.jpg">
+      <PackagePath>Images\TheButcherBoy.jpg</PackagePath>
+      <Modified>2016-10-29T14:22:56.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\TheDaVinciCodeBookSeries.jpg">
+      <PackagePath>Images\TheDaVinciCodeBookSeries.jpg</PackagePath>
+      <Modified>2016-10-29T14:31:09.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\TheHost.jpg">
+      <PackagePath>Images\TheHost.jpg</PackagePath>
+      <Modified>2016-10-29T14:28:30.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\TheLovelyBones.jpg">
+      <PackagePath>Images\TheLovelyBones.jpg</PackagePath>
+      <Modified>2016-10-29T14:26:49.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\ToKillAMockingbird.jpg">
+      <PackagePath>Images\ToKillAMockingbird.jpg</PackagePath>
+      <Modified>2016-10-29T14:15:19.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\TwilightSeries.jpg">
+      <PackagePath>Images\TwilightSeries.jpg</PackagePath>
+      <Modified>2016-10-12T10:43:10.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\WarmBodiesBook.jpg">
+      <PackagePath>Images\WarmBodiesBook.jpg</PackagePath>
+      <Modified>2016-10-12T10:59:16.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\EnidBlytonFamousFiveSeries.jpeg">
+      <PackagePath>Images\EnidBlytonFamousFiveSeries.jpeg</PackagePath>
+      <Modified>2016-10-12T10:46:40.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\JKRowlingHarryPotterSeries.jpeg">
+      <PackagePath>Images\JKRowlingHarryPotterSeries.jpeg</PackagePath>
+      <Modified>2016-10-12T10:40:55.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\MySistersKeeper.jpeg">
+      <PackagePath>Images\MySistersKeeper.jpeg</PackagePath>
+      <Modified>2016-10-29T14:18:02.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\PsILoveYou.jpeg">
+      <PackagePath>Images\PsILoveYou.jpeg</PackagePath>
+      <Modified>2016-10-29T14:19:47.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\StephenKingTheGirlWhoLovedTomGordon.jpeg">
+      <PackagePath>Images\StephenKingTheGirlWhoLovedTomGordon.jpeg</PackagePath>
+      <Modified>2016-10-12T10:24:23.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\TheBoyintheStripedPyjamas.jpeg">
+      <PackagePath>Images\TheBoyintheStripedPyjamas.jpeg</PackagePath>
+      <Modified>2016-10-29T14:18:42.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\TheSecretGarden.jpeg">
+      <PackagePath>Images\TheSecretGarden.jpeg</PackagePath>
+      <Modified>2016-10-12T11:03:28.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\TheTimeTravelersWife.jpeg">
+      <PackagePath>Images\TheTimeTravelersWife.jpeg</PackagePath>
+      <Modified>2016-10-29T14:23:53.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-10-11T16:43:19.521</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\bin\x64\Debug\Book-Selector.xr.xml">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Book-Selector.xr.xml">
       <PackagePath>Book-Selector.xr.xml</PackagePath>
-      <Modified>2016-10-29T16:21:50.274</Modified>
+      <Modified>2016-10-31T15:59:44.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-10-24T10:59:53.289</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-29T16:30:12.537</Modified>
+      <Modified>2016-10-31T19:04:29.369</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Documents\Visual Studio 2015\Projects\Book-Selector\Book-Selector\bin\x64\Debug\Core\Book-Selector.exe">
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Core\Book-Selector.exe">
       <PackagePath>Book-Selector.exe</PackagePath>
-      <Modified>2016-10-29T16:30:13.138</Modified>
+      <Modified>2016-10-31T19:04:30.814</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
