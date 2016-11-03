@@ -116,9 +116,9 @@ namespace Book_Selector
             {
                 HungerGamesTrilogy.Visibility = Visibility.Visible;
             }
-            else if (RandomImage == JKRowlingCasualVacancey)
+            else if (RandomImage == JKRowlingCasualVacancy)
             {
-                JKRowlingCasualVacancey.Visibility = Visibility.Visible;
+                JKRowlingCasualVacancy.Visibility = Visibility.Visible;
             }
             else if (RandomImage == JKRowlingHarryPotterSeries)
             {
