@@ -117,11 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="uidbtnRandom.Content" xml:space="preserve">
+  <data name="uidBtnRandom.Content" xml:space="preserve">
     <value>Choose a random book!</value>
-    <comment>Choose a random book button localised  to French</comment>
+    <comment>Choose a random book button localised to English</comment>
   </data>
-  <data name="uidbtnSearchAgain.Content" xml:space="preserve">
+  <data name="uidBtnSearchAgain.Content" xml:space="preserve">
     <value>Choose a random book!</value>
     <comment>Button hidden behind Random button so it has the same Caption</comment>
   </data>

@@ -45,7 +45,7 @@
 {	"Name" : "Dexter Book Series", 
 	"Genre" : "Crime Fiction", 
 	"Author" : "Jeff Lindsay", 
-	"Description" : "Dexter Morgan, works for the Miami-Dade Police Department as a forensic blood spatter pattern analyst. In his spare time, Dexter is a serial killer who kills undesirables he believes will ultimately escape justice. Dexter's murders are directed by an inner voice he refers to as the "Dark Passenger" which keeps prodding Dexter to satisfy his homicidal urges. Once he has done so, the voice is placated, but it always eventually comes back.", 
+	"Description" : "Dexter Morgan, works for the Miami-Dade Police Department as a forensic blood spatter pattern analyst. In his spare time, Dexter is a serial killer who kills undesirables he believes will ultimately escape justice. Dexter's murders are directed by an inner voice he refers to as the Dark Passenger which keeps prodding Dexter to satisfy his homicidal urges. Once he has done so, the voice is placated, but it always eventually comes back.", 
 	"Image" : "/Images/DexterBookSeries.jpg" },
 
 {	"Name" : "Famous Five Series", 
@@ -57,14 +57,14 @@
 {	"Name" : "The Magic Faraway Tree", 
 	"Genre" : "Fantasy", 
 	"Author" : "Enid Blyton", 
-	"Description" : "The stories take place in an enchanted forest in which a gigantic magical tree grows – the "Faraway Tree". The tree is so tall that its topmost branches reach into the clouds and it is wide enough to contain small houses carved into its trunk. The forest and the tree are discovered by three children named Jo, Bessie and Fanny, who move into a house nearby. It is then that they embark on adventures to the top of the tree.", 
+	"Description" : "The stories take place in an enchanted forest in which a gigantic magical tree grows – the Faraway Tree. The tree is so tall that its topmost branches reach into the clouds and it is wide enough to contain small houses carved into its trunk. The forest and the tree are discovered by three children named Jo, Bessie and Fanny, who move into a house nearby. It is then that they embark on adventures to the top of the tree.", 
 	"Image" : "/Images/EnidBlytonFarawayTree.jpg" },
 
 {	"Name" : "Malory Towers", 
 	"Genre" : "Children's literature", 
 	"Author" : "Enid Blyton", 
 	"Description" : "The heroine is Darrell Rivers, who enters the school in the first form and becomes head girl when she is in the sixth. But of course it's not all plain sailing for Darrell and her friends! Darrell and Co are in North Tower where the girls try not to run foul of strict housemistress Miss Potts, or the equally strict Matron.", 
-	"Image" : "/Images/EnidBlytonMaloryTowers.jpg" }
+	"Image" : "/Images/EnidBlytonMaloryTowers.jpg" },
 
 {	"Name" : "The Secret Seven", 
 	"Genre" : "Children's literature", 
@@ -75,7 +75,7 @@
 {	"Name" : "St. Clare's",
 	"Genre" : "Children's literature",
 	"Author" : "Enid Blyton",
-	"Description" : "St. Clare's, a girls' boarding school which predates Malory Towers, is described by one parent as "a very sensible sort of school" but it is also a place of madcap schemes, games and jollity.",
+	"Description" : "St. Clare's, a girls' boarding school which predates Malory Towers, is described by one parent as a very sensible sort of school but it is also a place of madcap schemes, games and jollity.",
 	"Image" : "/Images/EnidBlytonStClares.jpg"},
 
 {	"Name" : "The Wishing Chair Series", 
@@ -99,7 +99,7 @@
 {	"Name" : "Go Set A Watchman", 
 	"Genre" : "Fiction", 
 	"Author" : "Harper Lee", 
-	"Description" : "Twenty-six-year-old Jean Louise Finch—"Scout"—returns home from New York City to visit her aging father, Atticus. Set against the backdrop of the civil rights tensions and political turmoil that were transforming the South, Jean Louise's homecoming turns bittersweet when she learns disturbing truths about her close-knit family, the town, and the people dearest to her. Memories from her childhood flood back, and her values and assumptions are thrown into doubt.", 
+	"Description" : "Twenty-six-year-old Jean Louise Finch—Scout—returns home from New York City to visit her aging father, Atticus. Set against the backdrop of the civil rights tensions and political turmoil that were transforming the South, Jean Louise's homecoming turns bittersweet when she learns disturbing truths about her close-knit family, the town, and the people dearest to her. Memories from her childhood flood back, and her values and assumptions are thrown into doubt.", 
 	"Image" : "/Images/GoSetAWatchman.jpg" },
 
 {	"Name" : "Hannibal", 
@@ -111,21 +111,20 @@
 {	"Name" : "The Hunger Games Trilogy", 
 	"Genre" : "Fiction", 
 	"Author" : "Suzanne Collins", 
-	"Description" : "In the ruins of a place once known as North America lies Panem, a shining Capitol surrounded by twelve outlying districts. Long ago the districts waged war on the Capitol and were defeated. As part of the surrender terms, each district agreed to send one boy and one girl to appear in an annual televised event called, "The Hunger Games," a fight to the death on live TV. Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she is forced to represent her district in the Games. The tules may change, but one thing is constant: kill or be killed.", 
+	"Description" : "In the ruins of a place once known as North America lies Panem, a shining Capitol surrounded by twelve outlying districts. Long ago the districts waged war on the Capitol and were defeated. As part of the surrender terms, each district agreed to send one boy and one girl to appear in an annual televised event called, The Hunger Games, a fight to the death on live TV. Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she is forced to represent her district in the Games. The tules may change, but one thing is constant: kill or be killed.", 
 	"Image" : "/Images/HungerGamesTrilogy.jpg" },
 
 {	"Name" : "The Casual Vacancy", 
 	"Genre" : "Fiction", 
 	"Author" : "J.K. Rowling", 
-	"Description" : "When Barry Fairbrother dies in his early forties, the town of Pagford is left in shock.
-Pagford is, seemingly, an English idyll, but what lies behind the pretty façade is a town at war. Rich and poor, teenagers with their parents, wives with their husbands, teachers with their pupils...Pagford is not what it first seems. The empty seat left by Barry on the parish council soon becomes the catalyst for the biggest war the town has yet seen. Who will triumph in an election fraught with passion, duplicity, and unexpected revelations?", 
+	"Description" : "When Barry Fairbrother dies in his early forties, the town of Pagford is left in shock. Pagford is, seemingly, an English idyll, but what lies behind the pretty façade is a town at war. Rich and poor, teenagers with their parents, wives with their husbands, teachers with their pupils...Pagford is not what it first seems. The empty seat left by Barry on the parish council soon becomes the catalyst for the biggest war the town has yet seen. Who will triumph in an election fraught with passion, duplicity, and unexpected revelations?", 
 	"Image" : "/Images/JKRowlingCasualVacancy.jpg" },
 
 {	"Name" : "Harry Potter Series", 
 	"Genre" : "Fantasy", 
 	"Author" : "J.K. Rowling", 
 	"Description" : "The novels chronicle the life of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry . The main story concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic, and subjugate all wizards and Muggles.", 
-	"Image" : "/Images/JKRowlingHarryPotterSeries.jpeg" }
+	"Image" : "/Images/JKRowlingHarryPotterSeries.jpeg" },
 
 {	"Name" : "Life Of Pi", 
 	"Genre" : "Fiction", 
@@ -148,8 +147,7 @@ Pagford is, seemingly, an English idyll, but what lies behind the pretty façade
 {	"Name" : "My Sister's Keeper", 
 	"Genre" : "Tragedy", 
 	"Author" : "Jodi Picoult", 
-	"Description" : "Jodi Picoult tells the story of a girl who decides to sue her parents for the rights to her own body. Anna is not sick, but she might as well be. By age thirteen, she has undergone countless surgeries, transfusions, and shots so that her older sister, Kate, can somehow fight the leukemia that has plagued her since childhood. Anna was conceived as a bone marrow match for Kate—a life and a role that she has never challenged...until now. Like most teenagers, Anna is beginning to question who she truly is. But unlike most teenagers, she has always been defined in terms of her sister—and so Anna makes a decision that for most would be unthinkable, a decision that will tear her family apart and have perhaps fatal consequences for the sister she loves.
-", 
+	"Description" : "Jodi Picoult tells the story of a girl who decides to sue her parents for the rights to her own body. Anna is not sick, but she might as well be. By age thirteen, she has undergone countless surgeries, transfusions, and shots so that her older sister, Kate, can somehow fight the leukemia that has plagued her since childhood. Anna was conceived as a bone marrow match for Kate—a life and a role that she has never challenged...until now. Like most teenagers, Anna is beginning to question who she truly is. But unlike most teenagers, she has always been defined in terms of her sister—and so Anna makes a decision that for most would be unthinkable, a decision that will tear her family apart and have perhaps fatal consequences for the sister she loves.", 
 	"Image" : "/Images/MySistersKeeper.jpeg" },
 
 {	"Name" : "The Chronicles of Narnia", 
@@ -161,8 +159,7 @@ Pagford is, seemingly, an English idyll, but what lies behind the pretty façade
 {	"Name" : "One Day", 
 	"Genre" : "Romance", 
 	"Author" : "David Nicholls", 
-	"Description" : "It’s 1988 and Dexter Mayhew and Emma Morley have only just met on the night of their graduation. Tomorrow they must go their separate ways. But after only one day together, they cannot stop thinking about one another. 
-Over twenty years, snapshots of that relationship are revealed on the same day—July 15th—of each year. Dex and Em face squabbles and fights, hopes and missed opportunities, laughter and tears. And as the true meaning of this one crucial day is revealed, they must come to grips with the nature of love and life itself. Twenty years, two people, one day.", 
+	"Description" : "It’s 1988 and Dexter Mayhew and Emma Morley have only just met on the night of their graduation. Tomorrow they must go their separate ways. But after only one day together, they cannot stop thinking about one another. Over twenty years, snapshots of that relationship are revealed on the same day—July 15th—of each year. Dex and Em face squabbles and fights, hopes and missed opportunities, laughter and tears. And as the true meaning of this one crucial day is revealed, they must come to grips with the nature of love and life itself. Twenty years, two people, one day.", 
 	"Image" : "/Images/OneDay.jpg" },
 
 {	"Name" : "Philomena", 
@@ -187,9 +184,9 @@ Over twenty years, snapshots of that relationship are revealed on the same day�
 	"Genre" : "Children Literature", 
 	"Author" : "Roald Dahl", 
 	"Description" : "Someone's been stealing from the three meanest farmers around, and they know the identity of the thief—it's Fantastic Mr. Fox! Working alone they could never catch him; but now fat Boggis, squat Bunce, and skinny Bean have joined forces, and they have Mr. Fox and his family surrounded. What they don't know is that they're not dealing with just any fox—Mr. Fox would rather die than surrender. Only the most fantastic plan can save him now.", 
-	"Image" : "/Images/RoaldDahlFantasticMrFox.jpg" }
+	"Image" : "/Images/RoaldDahlFantasticMrFox.jpg" },
 
-{       "Name" : "James and the Giant Peach", 
+{ "Name" : "James and the Giant Peach", 
 	"Genre" : "Children's literature", 
 	"Author" : "Roald Dahl", 
 	"Description" : "After James Henry Trotter's parents are tragically eaten by a rhinoceros, he goes to live with his two horrible aunts, Spiker and Sponge. Life there is no fun, until James accidentally drops some magic crystals by the old peach tree and strange things start to happen. The peach at the top of the tree begins to grow, and before long it's as big as a house. Inside, James meets a bunch of oversized friends—Grasshopper, Centipede, Ladybug, and more. With a snip of the stem, the peach starts rolling away, and the great adventure begins!", 
@@ -247,7 +244,7 @@ Over twenty years, snapshots of that relationship are revealed on the same day�
 	"Genre" : "Horror fiction", 
 	"Author" : "Stephen King", 
 	"Description" : "On a hike nine-year-old Trisha McFarland quickly tires of the constant bickering between her older brother and recently divorced mother. But when she wanders off by herself, she becomes lost in a wilderness maze full of peril and terror. As night falls, Trisha has only her ingenuity as a defense. For solace she tunes her Walkman to broadcasts of Boston Red Sox baseball games and follows her hero, relief pitcher Tom Gordon. And when her radio’s reception begins to fade, Trisha imagines that Tom Gordon is protecting her from an all-too-real enemy who has left a trail of slaughtered animals and mangled trees in the dense, dark woods…", 
-	"Image" : "/Images/StephenKingTheGirlWhoLovedTomGordon.jpeg" }
+	"Image" : "/Images/StephenKingTheGirlWhoLovedTomGordon.jpeg" },
 
 {	"Name" : "The Green Mile", 
 	"Genre" : "Dark fantasy", 
@@ -301,12 +298,12 @@ Over twenty years, snapshots of that relationship are revealed on the same day�
 	"Genre" : "Mystery", 
 	"Author" : "Paula Hawkins", 
 	"Description" : "Rachel takes the same train every morning and night allowing her to watch the same couple breakfasting on their deck. She’s even started to feel like she knows them. Jess and Jason, she calls them. Their life—as she sees it—is perfect. Not unlike the life she recently lost. And then she sees something shocking. Now everything’s changed. Unable to keep it to herself, Rachel goes to the police. Soon she is deeply entangled not only in the investigation but in the lives of all involved. Has she done more harm than good?", 
-	"Image" : "/Images/TheGirlOnTheTrain.png" }
+	"Image" : "/Images/TheGirlOnTheTrain.png" },
 
 {	"Name" : "The Host", 
 	"Genre" : "Science Fiction", 
 	"Author" : "Stephanie Meyer", 
-	"Description" : "Melanie Stryder refuses to fade away. Our world has been invaded by an unseen enemy that takes over the minds of human hosts. But Wanderer, the invading "soul" who occupies Melanie's body, finds its former tenant refusing to relinquish possession of her mind. As Melanie fills Wanderer's thoughts with visions of Jared, a human who lives in hiding, Wanderer begins to yearn for a man she's never met. Soon Wanderer and Melanie-reluctant allies-set off to search for the man they both love.", 
+	"Description" : "Melanie Stryder refuses to fade away. Our world has been invaded by an unseen enemy that takes over the minds of human hosts. But Wanderer, the invading soul who occupies Melanie's body, finds its former tenant refusing to relinquish possession of her mind. As Melanie fills Wanderer's thoughts with visions of Jared, a human who lives in hiding, Wanderer begins to yearn for a man she's never met. Soon Wanderer and Melanie-reluctant allies-set off to search for the man they both love.", 
 	"Image" : "/Images/TheHost.jpg"},
 
 {	"Name" : "The Lovely Bones",
@@ -328,7 +325,7 @@ Over twenty years, snapshots of that relationship are revealed on the same day�
 	"Image" : "/Images/TheTimeTravelersWife.jpeg" },
 
 {	"Name" : "To Kill A Mockingbird", 
-	"Genre" : "Coming of the Age", 
+	"Genre" : "Coming of Age", 
 	"Author" : "Harper Lee", 
 	"Description" : "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it. Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.", 
 	"Image" : "/Images/ToKillAMockingbird.jpg" },
@@ -340,9 +337,8 @@ Over twenty years, snapshots of that relationship are revealed on the same day�
 	"Image" : "/Images/TwilightSeries.jpg" },
 
 {	"Name" : "Warm Bodies", 
-	"Genre" : "", 
+	"Genre" : "Post-Apocalyptic Fiction", 
 	"Author" : "Isaac Marion", 
-	"Description" : "R is having a no-life crisis—he is a zombie. He has no memories, no identity, and no pulse, but he is a little different from his fellow Dead. He may occasionally eat people, but he’d rather be riding abandoned airport escalators, listening to Sinatra in the cozy 747 he calls home, or collecting souvenirs from the ruins of civilization. 
-And then he meets a girl. First as his captive, then his reluctant house guest, Julie is a blast of living color in R’s gray landscape, and something inside him begins to bloom. He doesn’t want to eat this girl—although she looks delicious—he wants to protect her. But their unlikely bond will cause ripples and their hopeless world won’t change without a fight.", 
-	"Image" : "/Images/WarmBodiesBook.jpg" },
+	"Description" : "R is having a no-life crisis—he is a zombie. He has no memories, no identity, and no pulse, but he is a little different from his fellow Dead. He may occasionally eat people, but he’d rather be riding abandoned airport escalators, listening to Sinatra in the cozy 747 he calls home, or collecting souvenirs from the ruins of civilization. And then he meets a girl. First as his captive, then his reluctant house guest, Julie is a blast of living color in R’s gray landscape, and something inside him begins to bloom. He doesn’t want to eat this girl—although she looks delicious—he wants to protect her. But their unlikely bond will cause ripples and their hopeless world won’t change without a fight.", 
+	"Image" : "/Images/WarmBodiesBook.jpg" }
 ]

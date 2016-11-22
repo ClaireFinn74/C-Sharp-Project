@@ -389,4 +389,8 @@ C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\qualifiers.tx
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\qualifiers.txt.intermediate
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\ProjectArchitectures.txt
-C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\Book-Selector.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\RandomBookGenerator.xbf
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\RandomBookGenerator.g.i.cs
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\RandomBookGenerator.g.cs
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\RandomBookGenerator.xaml
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\RandomBookGenerator.xbf

@@ -444,6 +444,9 @@
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Data\myBooks.txt">
+      <PackagePath>Data\myBooks.txt</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\AboutABoy.jpg">
       <PackagePath>Images\AboutABoy.jpg</PackagePath>
     </AppxPackagedFile>

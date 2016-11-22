@@ -3,73 +3,77 @@
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:Book_Selector"
+    xmlns:converters="using:Book_Selector.Converters"
+    xmlns:viewModel="using:Book_Selector.ViewModel"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <!-- Images in the randomly generating array -->
-        <Image x:Name="AboutABoy" Visibility="Collapsed" Source="Images/AboutABoy.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="AngelasAshes" Visibility="Collapsed" Source="Images/AngelasAshes.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="BlackBeauty"  Source="Images/BlackBeauty.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" Visibility="Collapsed"/>
-        <Image x:Name="BridgetJonesDiary" Visibility="Collapsed" Source="Images/BridgetJonesDiary.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="BridgetJonesEdgeofReason" Visibility="Collapsed" Source="Images/BridgetJonesEdgeofReason.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="BridgetJonesMadAbouttheBoy" Visibility="Collapsed" Source="Images/BridgetJonesMadAbouttheBoy.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="CuriousIncidentDogInNight" Visibility="Collapsed" Source="Images/CuriousIncidentDogInNight.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="DarkPlaces" Visibility="Collapsed" Source="Images/DarkPlaces.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="DexterBookSeries" Visibility="Collapsed" Source="Images/DexterBookSeries.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="EnidBlytonFamousFiveSeries" Visibility="Collapsed" Source="Images/EnidBlytonFamousFiveSeries.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="EnidBlytonFarawayTree" Visibility="Collapsed" Source="Images/EnidBlytonFarawayTree.jpeg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="EnidBlytonMaloryTowers" Visibility="Collapsed" Source="Images/EnidBlytonMaloryTowers.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="EnidBlytonSecretSeven" Visibility="Collapsed" Source="Images/EnidBlytonSecretSeven.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="EnidBlytonStClares" Visibility="Collapsed" Source="Images/EnidBlytonStClares.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="EnidBlytonWishingChairSeries" Visibility="Collapsed" Source="Images/EnidBlytonWishingChairSeries.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="GameOfThronesSeries" Visibility="Collapsed" Source="Images/GameOfThronesSeries.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="GoneGirl" Visibility="Collapsed" Source="Images/GoneGirl.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="GoSetAWatchman" Visibility="Collapsed" Source="Images/GoSetAWatchman.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="Hannibal" Visibility="Collapsed" Source="Images/Hannibal.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="HungerGamesTrilogy" Visibility="Collapsed" Source="Images/HungerGamesTrilogy.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="JKRowlingCasualVacancy" Visibility="Collapsed" Source="Images/JKRowlingCasualVacancy.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="JKRowlingHarryPotterSeries" Visibility="Collapsed" Source="Images/JKRowlingHarryPotterSeries.jpeg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="LifeOfPi" Visibility="Collapsed" Source="Images/LifeOfPi.png" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="LordOfTheRingsSeries" Visibility="Collapsed" Source="Images/LordOfTheRingsSeries.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="MichaelOHigginsSnapshots" Visibility="Collapsed" Source="Images/MichaelOHigginsSnapshots.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="MySistersKeeper" Visibility="Collapsed" Source="Images/MySistersKeeper.jpeg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="NarniaBooks" Visibility="Collapsed" Source="Images/NarniaBooks.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="OneDay" Visibility="Collapsed" Source="Images/OneDay.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="Philomena" Visibility="Collapsed" Source="Images/Philomena.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="PsILoveYou" Visibility="Collapsed" Source="Images/PsILoveYou.jpeg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="RoaldDahlChocFactory" Visibility="Collapsed" Source="Images/RoaldDahlChocFactory.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="RoaldDahlFantasticMrFox" Visibility="Collapsed" Source="Images/RoaldDahlFantasticMrFox.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="RoaldDahlGiantPeach" Visibility="Collapsed" Source="Images/RoaldDahlGiantPeach.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="RoaldDahlMatilda" Visibility="Collapsed" Source="Images/RoaldDahlMatilda.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="RoaldDahlTheBFG" Visibility="Collapsed" Source="Images/RoaldDahlTheBFG.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="StephenKingCarrie" Visibility="Collapsed" Source="Images/StephenKingCarrie.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="StephenKingCujo" Visibility="Collapsed" Source="Images/StephenKingCujo.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="StephenKingDoloresClaiborne" Visibility="Collapsed" Source="Images/StephenKingDoloresClaiborne.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="StephenKingIt" Visibility="Collapsed" Source="Images/StephenKingIt.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="StephenKingMisery" Visibility="Collapsed" Source="Images/StephenKingMisery.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="StephenKingTheBody" Visibility="Collapsed" Source="Images/StephenKingTheBody.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="StephenKingTheGirlWhoLovedTomGordon" Visibility="Collapsed" Source="Images/StephenKingTheGirlWhoLovedTomGordon.jpeg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="StephenKingTheGreenMile" Visibility="Collapsed" Source="Images/StephenKingTheGreenMile.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="StephenKingTheShawshankRedemption" Visibility="Collapsed" Source="Images/StephenKingTheShawshankRedemption.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="StephenKingUnderTheDome" Visibility="Collapsed" Source="Images/StephenKingUnderTheDome.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="TheBeanoAnnual" Visibility="Collapsed" Source="Images/TheBeanoAnnual.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="TheBookTheif" Visibility="Collapsed" Source="Images/TheBookTheif.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="TheBoyintheStripedPyjamas" Visibility="Collapsed" Source="Images/TheBoyintheStripedPyjamas.jpeg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="TheButcherBoy" Visibility="Collapsed" Source="Images/TheButcherBoy.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="TheDaVinciCodeBookSeries" Visibility="Collapsed" Source="Images/TheDaVinciCodeBookSeries.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="TheGirlOnTheTrain" Visibility="Collapsed" Source="Images/TheGirlOnTheTrain.png" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="TheHost" Visibility="Collapsed" Source="Images/TheHost.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="TheLovelyBones" Visibility="Collapsed" Source="Images/TheLovelyBones.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="TheSecretGarden" Visibility="Collapsed" Source="Images/TheSecretGarden.jpeg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="TheTimeTravelersWife" Visibility="Collapsed" Source="Images/TheTimeTravelersWife.jpeg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="ToKillAMockingbird" Visibility="Collapsed" Source="Images/ToKillAMockingbird.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="TwilightSeries" Visibility="Collapsed" Source="Images/TwilightSeries.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
-        <Image x:Name="WarmBodiesBook" Visibility="Collapsed" Source="Images/WarmBodiesBook.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="316,171,0,0" d:IsHidden="True" d:IsLocked="True" />
+    <Page.Resources>
+        <converters:ObjectExistsToVisible x:Key="ObjectExistsToVisible" />
+    </Page.Resources>
 
-        <!-- Button the user presses to choose a random book from the generator -->
-        <Button x:Name="btnRandom" x:Uid="uidBtnRandom" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="82,46,0,0" VerticalAlignment="Top" Height="58" Width="200" Click="btnRandom_Click"/>
-        <Button x:Name="btnSearchAgain" x:Uid="uidBtnSearchAgain" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="82,46,0,0" VerticalAlignment="Top" Height="58" Width="200" Click="btnSearchAgain_Click"/>
+
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup>
+                <VisualState>
+                    <VisualState.StateTriggers>
+                        <!-- VisualState to be triggered when window 
+                     width is >=720 effective pixels -->
+                        <AdaptiveTrigger MinWindowWidth = "1440" />
+                    </VisualState.StateTriggers>
+
+                    <VisualState.Setters>
+                        <Setter Target = "myPanel.Orientation" Value = "Horizontal" />
+                        <Setter Target = "InfoPanel.Orientation" Value = "Horizontal" />
+
+                    </VisualState.Setters>
+
+                </VisualState>
+
+            </VisualStateGroup>
+
+        </VisualStateManager.VisualStateGroups>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            <StackPanel x:Name="myPanel"  Grid.Column="0" Orientation="Vertical">
+                <ListView  x:Name="MainList" 
+              ItemsSource="{x:Bind ViewNames.book, Mode=OneWay}" 
+                       SelectedIndex="{x:Bind ViewNames.SelectedIndex, Mode=TwoWay}"
+              MinWidth="250" Margin="5">
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate x:DataType="viewModel:BookViewModel" >
+                            <TextBlock Text="{x:Bind Name, Mode=OneWay}" />
+                        </DataTemplate>
+
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackPanel>
+        </ScrollViewer>
+
+        <StackPanel x:Name="InfoPanel" Grid.Column="2" Orientation="Vertical" Visibility="{x:Bind ViewNames.SelectedBook, Mode=OneWay, Converter={StaticResource ObjectExistsToVisible}}" >
+            <TextBox IsReadOnly="True"
+              Text="{x:Bind ViewNames.SelectedBook.Name, Mode=OneWay, FallbackValue=''}" 
+              Margin="5" />
+            <TextBox IsReadOnly="True"
+              Text="{x:Bind ViewNames.SelectedBook.Genre, Mode=OneWay, FallbackValue='0'}" 
+              Margin="5" />
+            <TextBox IsReadOnly="True"
+              Text="{x:Bind ViewNames.SelectedBook.Author, Mode=OneWay, FallbackValue='0'}" 
+              Margin="5" />
+            <TextBox IsReadOnly="True" TextWrapping="Wrap" Width="500"
+              Text="{x:Bind ViewNames.SelectedBook.Description, Mode=OneWay, FallbackValue='0'}" 
+              Margin="5" />
+            <Image Source="{x:Bind ViewNames.SelectedBook.Image, Mode=OneWay, FallbackValue='0'}" Height="300" Width="300"/>
+        </StackPanel>
+
+        <Button x:Name="btnGoToRandom" x:Uid="uidbtnGoToRandom" Content="Want a random Book? Click here!" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="370,600,-305,0" VerticalAlignment="Top" Height="58" Width="235" Click="btnGoToRandom_Click" Grid.Column="1"/>
     </Grid>
 </Page>
