@@ -73,7 +73,14 @@
               Margin="5" />
             <Image Source="{x:Bind ViewNames.SelectedBook.Image, Mode=OneWay, FallbackValue='0'}" Height="300" Width="300"/>
         </StackPanel>
+        <Button x:Name="btnGoToRandom" x:Uid="uidbtnGoToRandom" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="370,600,-345.2,0" VerticalAlignment="Top" Height="58" Width="488" Click="btnGoToRandom_Click" Grid.Column="1"/>
+        <Button Name="ButtonLogin" x:Uid="uidbtnLogin" Background="Azure" Visibility="Visible" Margin="529,15,-540.4,628" 
+         Click="ButtonLogin_Click" FontSize="18" TabIndex="0" Height="125" Width="525" Grid.Column="1">
+            <StackPanel Orientation="Horizontal">
+                <SymbolIcon Symbol="Permissions"/>
+                <TextBlock Margin="5">Sign in using your Azure Account?</TextBlock>
+            </StackPanel>
+        </Button>
 
-        <Button x:Name="btnGoToRandom" x:Uid="uidbtnGoToRandom" Content="Want a random Book? Click here!" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="370,600,-305,0" VerticalAlignment="Top" Height="58" Width="235" Click="btnGoToRandom_Click" Grid.Column="1"/>
     </Grid>
 </Page>

@@ -117,12 +117,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="uidbtnBack.Content" xml:space="preserve">
+    <value>Ar ais</value>
+    <comment>Navigate ar ais go dtí MainPage</comment>
+  </data>
+  <data name="uidbtnGoToRandom.Content" xml:space="preserve">
+    <value>bhfuil tú ag iarraidh a leabhar randamach? Cliceáil anseo!</value>
+    <comment>Téigh go dtí Randamach Leabhar Gineadóir leathanach</comment>
+  </data>
+  <data name="uidbtnLogin.Content" xml:space="preserve">
+    <value>Sínigh isteach ag baint úsáide as do Chuntas Azure?</value>
+    <comment>Sínigh isteach le azure</comment>
+  </data>
   <data name="uidbtnRandom.Content" xml:space="preserve">
-    <value>Roghnaigh leabhar randamach!</value>
-    <comment>Roghnú cnaipe leabhar randamach logánaithe don Ghaeilge</comment>
+    <value>Double cliceáil a Roghnaigh leabhar randamach!</value>
+    <comment>Double cliceáil a Roghnú cnaipe leabhar randamach logánaithe don Ghaeilge</comment>
   </data>
   <data name="uidbtnSearchAgain.Content" xml:space="preserve">
-    <value>Roghnaigh leabhar randamach!</value>
+    <value>Double cliceáil a Roghnaigh leabhar randamach!</value>
     <comment>Button i bhfolach taobh thiar cnaipe Random mar sin tá sé an Caption céanna</comment>
   </data>
 </root>

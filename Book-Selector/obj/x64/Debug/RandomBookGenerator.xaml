@@ -69,10 +69,10 @@
         <Image x:ConnectionId='58' x:Name="WarmBodiesBook" Visibility="Collapsed" Source="Images/WarmBodiesBook.jpg" HorizontalAlignment="Left" Height="356" VerticalAlignment="Top" Width="327" Margin="82,200,0,0" d:IsHidden="True" d:IsLocked="True" />
 
         <!-- Button the user presses to choose a random book from the generator -->
-        <Button x:ConnectionId='59' x:Name="btnRandom" x:Uid="uidbtnRandom" Content="Randomizer" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="82,50,0,0" VerticalAlignment="Top" Height="58" Width="201"                        />
-        <Button x:ConnectionId='60' x:Name="btnSearchAgain" x:Uid="uidbtnSearchAgain" Content="Randomizer" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="82,50,0,0" VerticalAlignment="Top" Height="58" Width="201"                             />
+        <Button x:ConnectionId='59' x:Name="btnRandom" x:Uid="uidbtnRandom" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="31,53,0,0" VerticalAlignment="Top" Height="58" Width="372"                        />
+        <Button x:ConnectionId='60' x:Name="btnSearchAgain" x:Uid="uidbtnSearchAgain" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="31,53,0,0" VerticalAlignment="Top" Height="58" Width="372"                             />
         <!-- Navigate back to MainPage-->
-        <Button x:ConnectionId='61' x:Name="btnBack" x:Uid="uidbtnBack" Content="Back" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="337,0,0,20" VerticalAlignment="Bottom" Height="58" Width="86"                      />
+        <Button x:ConnectionId='61' x:Name="btnBack" x:Uid="uidbtnBack" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="337,0,0,20" VerticalAlignment="Bottom" Height="58" Width="86"                      />
     </Grid>
 </Page>
 

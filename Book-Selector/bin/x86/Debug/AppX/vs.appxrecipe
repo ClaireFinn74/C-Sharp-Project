@@ -16,10 +16,10 @@
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>80127185CD2E16309C77ACE9008C718CFDE74DEDB7A230F15B539FB088A34DB6</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>f3e68e7a-1f7d-4def-8c08-65facd5e717d_1.0.0.0_x86__xp10nbj12f0ca</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>f3e68e7a-1f7d-4def-8c08-65facd5e717d_xp10nbj12f0ca!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>f3e68e7a-1f7d-4def-8c08-65facd5e717d</RegisteredPackageID>
+    <RegisteredManifestChecksum>E7F58064C3CBAC5CB85202AC4437A0760D6D9C7D4CB5AD03AEE7197CF211F1D8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Book-Selector_1.0.0.0_x86__xp10nbj12f0ca</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Book-Selector_xp10nbj12f0ca!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Book-Selector</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=owner</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-22T11:09:57.080</Modified>
+      <Modified>2016-11-23T12:54:36.557</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\Book-Selector.exe">
       <PackagePath>entrypoint\Book-Selector.exe</PackagePath>
-      <Modified>2016-11-20T18:11:14.721</Modified>
+      <Modified>2016-11-23T12:54:33.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -590,7 +590,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Data\myBooks.txt">
       <PackagePath>Data\myBooks.txt</PackagePath>
-      <Modified>2016-11-03T21:54:44.798</Modified>
+      <Modified>2016-11-22T17:43:36.812</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\AboutABoy.jpg">
       <PackagePath>Images\AboutABoy.jpg</PackagePath>
@@ -822,7 +822,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\Book-Selector.xr.xml">
       <PackagePath>Book-Selector.xr.xml</PackagePath>
-      <Modified>2016-11-20T18:11:14.083</Modified>
+      <Modified>2016-11-23T11:57:12.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -831,11 +831,11 @@
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-22T11:09:52.949</Modified>
+      <Modified>2016-11-23T12:14:38.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\Core\Book-Selector.exe">
       <PackagePath>Book-Selector.exe</PackagePath>
-      <Modified>2016-11-22T11:09:57.054</Modified>
+      <Modified>2016-11-23T12:54:36.539</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

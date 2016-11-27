@@ -117,12 +117,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="uidbtnBack.Content" xml:space="preserve">
+    <value>Back</value>
+    <comment>Navigate back to MainPage</comment>
+  </data>
   <data name="uidBtnRandom.Content" xml:space="preserve">
-    <value>Choose a random book!</value>
-    <comment>Choose a random book button localised to English</comment>
+    <value>Double-click to Choose a random book!</value>
+    <comment>Double click to Choose a random book button localised to English</comment>
   </data>
   <data name="uidBtnSearchAgain.Content" xml:space="preserve">
-    <value>Choose a random book!</value>
+    <value>Double-click to Choose a random book!</value>
     <comment>Button hidden behind Random button so it has the same Caption</comment>
+  </data>
+  <data name="uidbtnGoToRandom.Content" xml:space="preserve">
+    <value>Want a random book? Click here!</value>
+    <comment>Go to Random Book Generator page</comment>
+  </data>
+  <data name="uidbtnLogin.Content" xml:space="preserve">
+    <value>Sign in using your Azure Account?</value>
+    <comment>Sign in with Azure</comment>
   </data>
 </root>

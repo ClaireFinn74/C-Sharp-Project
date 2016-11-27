@@ -132,7 +132,7 @@ namespace Book_Selector.Book_Selector_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[7];
+            _typeNameTable = new string[8];
             _typeNameTable[0] = "Book_Selector.Converters.ObjectExistsToVisible";
             _typeNameTable[1] = "Object";
             _typeNameTable[2] = "Book_Selector.MainPage";
@@ -140,8 +140,9 @@ namespace Book_Selector.Book_Selector_XamlTypeInfo
             _typeNameTable[4] = "Windows.UI.Xaml.Controls.UserControl";
             _typeNameTable[5] = "Book_Selector.ViewModel.NameViewModel";
             _typeNameTable[6] = "Book_Selector.ViewModel.NotificationBase";
+            _typeNameTable[7] = "Book_Selector.RandomBookGenerator";
 
-            _typeTable = new global::System.Type[7];
+            _typeTable = new global::System.Type[8];
             _typeTable[0] = typeof(global::Book_Selector.Converters.ObjectExistsToVisible);
             _typeTable[1] = typeof(global::System.Object);
             _typeTable[2] = typeof(global::Book_Selector.MainPage);
@@ -149,6 +150,7 @@ namespace Book_Selector.Book_Selector_XamlTypeInfo
             _typeTable[4] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
             _typeTable[5] = typeof(global::Book_Selector.ViewModel.NameViewModel);
             _typeTable[6] = typeof(global::Book_Selector.ViewModel.NotificationBase);
+            _typeTable[7] = typeof(global::Book_Selector.RandomBookGenerator);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -187,6 +189,7 @@ namespace Book_Selector.Book_Selector_XamlTypeInfo
         private object Activate_2_MainPage() { return new global::Book_Selector.MainPage(); }
         private object Activate_5_NameViewModel() { return new global::Book_Selector.ViewModel.NameViewModel(); }
         private object Activate_6_NotificationBase() { return new global::Book_Selector.ViewModel.NotificationBase(); }
+        private object Activate_7_RandomBookGenerator() { return new global::Book_Selector.RandomBookGenerator(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -235,6 +238,13 @@ namespace Book_Selector.Book_Selector_XamlTypeInfo
             case 6:   //  Book_Selector.ViewModel.NotificationBase
                 userType = new global::Book_Selector.Book_Selector_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
                 userType.Activator = Activate_6_NotificationBase;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 7:   //  Book_Selector.RandomBookGenerator
+                userType = new global::Book_Selector.Book_Selector_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_7_RandomBookGenerator;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;

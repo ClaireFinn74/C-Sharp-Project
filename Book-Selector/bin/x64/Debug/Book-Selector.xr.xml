@@ -8,10 +8,9 @@
       <RootProperty Name="RequestedTheme" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Page">
-      <RootProperty Name="Resources" />
       <RootProperty Name="Content" />
+      <RootProperty Name="Resources" />
     </RootType>
-    <RootType FullName="Book_Selector.Converters.ObjectExistsToVisible" />
     <RootType FullName="Windows.UI.Xaml.Controls.Grid">
       <RootProperty Name="Background" />
       <RootProperty Name="ColumnDefinitions" />
@@ -19,10 +18,12 @@
       <RootMethod Name="GetColumn" />
       <RootMethod Name="SetColumn" />
     </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Book_Selector.Login" />
+    <RootType FullName="Book_Selector.Converters.ObjectExistsToVisible" />
     <RootType FullName="Windows.UI.Xaml.VisualStateManager">
       <RootMethod Name="GetVisualStateGroups" />
     </RootType>
-    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
     <RootType FullName="Windows.UI.Xaml.VisualStateGroup">
       <RootProperty Name="States" />
     </RootType>
@@ -51,7 +52,6 @@
       <RootProperty Name="Children" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Button">
-      <RootProperty Name="Content" />
       <RootProperty Name="Background" />
       <RootProperty Name="BorderBrush" />
       <RootProperty Name="HorizontalAlignment" />
@@ -59,7 +59,20 @@
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Height" />
       <RootProperty Name="Width" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="TabIndex" />
+      <RootProperty Name="Content" />
       <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.SymbolIcon">
+      <RootProperty Name="Symbol" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Inlines" />
+      <RootProperty Name="Text" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.BindExtension">
       <RootProperty Name="Mode" />
@@ -92,9 +105,6 @@
     </RootType>
     <RootType FullName="Windows.UI.Xaml.DataTemplate">
       <RootProperty Name="Template" />
-    </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
-      <RootProperty Name="Text" />
     </RootType>
     <RootType FullName="Book_Selector.MainPage" />
     <RootType FullName="Book_Selector.RandomBookGenerator" />

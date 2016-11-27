@@ -117,12 +117,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="uidbtnBack.Content" xml:space="preserve">
+    <value>Indietro</value>
+    <comment>Passare indietro a MainPage</comment>
+  </data>
+  <data name="uidbtnGoToRandom.Content" xml:space="preserve">
+    <value>Vuoi un libro a caso? Clicca qui!</value>
+    <comment>Vai alla pagina a caso Libro Generator</comment>
+  </data>
+  <data name="uidbtnLogin.Content" xml:space="preserve">
+    <value>Accedi utilizzando il tuo account Azure?</value>
+    <comment>Accedi con Azure</comment>
+  </data>
   <data name="uidbtnRandom.Content" xml:space="preserve">
-    <value>Scegli un libro a caso!</value>
-    <comment>Scegliere un pulsante a caso libro localizzato a Francese</comment>
+    <value>Fare doppio clic per Scegli un libro a caso!</value>
+    <comment>Fare doppio clic per Scegliere un pulsante a caso libro localizzato a Francese</comment>
   </data>
   <data name="uidbtnSearchAgain.Content" xml:space="preserve">
-    <value>Scegli un libro a caso!</value>
+    <value>Fare doppio clic per Scegli un libro a caso!</value>
     <comment>Pulsante nascosto dietro il pulsante a caso in modo che abbia la stessa didascalia</comment>
   </data>
 </root>

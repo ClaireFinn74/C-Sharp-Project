@@ -325,7 +325,7 @@
 	"Image" : "/Images/TheTimeTravelersWife.jpeg" },
 
 {	"Name" : "To Kill A Mockingbird", 
-	"Genre" : "Coming of the Age", 
+	"Genre" : "Coming of Age", 
 	"Author" : "Harper Lee", 
 	"Description" : "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it. Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.", 
 	"Image" : "/Images/ToKillAMockingbird.jpg" },

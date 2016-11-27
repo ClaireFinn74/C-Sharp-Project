@@ -42,15 +42,15 @@
             <ColumnDefinition Width="Auto"/>
         </Grid.ColumnDefinitions>
         <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
-            <StackPanel x:ConnectionId='9' x:Name="myPanel"  Grid.Column="0" Orientation="Vertical">
-                <ListView x:ConnectionId='10'  x:Name="MainList" 
+            <StackPanel x:ConnectionId='10' x:Name="myPanel"  Grid.Column="0" Orientation="Vertical">
+                <ListView x:ConnectionId='11'  x:Name="MainList" 
                                                                  
                                                                                     
               MinWidth="250" Margin="5">
 
                     <ListView.ItemTemplate>
                         <DataTemplate                                      >
-                            <TextBlock x:ConnectionId='11'                                   />
+                            <TextBlock x:ConnectionId='12'                                   />
                         </DataTemplate>
 
                     </ListView.ItemTemplate>
@@ -59,22 +59,29 @@
         </ScrollViewer>
 
         <StackPanel x:ConnectionId='2' x:Name="InfoPanel" Grid.Column="2" Orientation="Vertical"                                                                                                             >
-            <TextBox x:ConnectionId='4' IsReadOnly="True"
+            <TextBox x:ConnectionId='5' IsReadOnly="True"
                                                                                          
               Margin="5" />
-            <TextBox x:ConnectionId='5' IsReadOnly="True"
+            <TextBox x:ConnectionId='6' IsReadOnly="True"
                                                                                            
               Margin="5" />
-            <TextBox x:ConnectionId='6' IsReadOnly="True"
+            <TextBox x:ConnectionId='7' IsReadOnly="True"
                                                                                             
               Margin="5" />
-            <TextBox x:ConnectionId='7' IsReadOnly="True" TextWrapping="Wrap" Width="500"
+            <TextBox x:ConnectionId='8' IsReadOnly="True" TextWrapping="Wrap" Width="500"
                                                                                                  
               Margin="5" />
-            <Image x:ConnectionId='8'                                                                                Height="300" Width="300"/>
+            <Image x:ConnectionId='9'                                                                                Height="300" Width="300"/>
         </StackPanel>
+        <Button x:ConnectionId='3' x:Name="btnGoToRandom" x:Uid="uidbtnGoToRandom" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="370,600,-345.2,0" VerticalAlignment="Top" Height="58" Width="488"                             Grid.Column="1"/>
+        <Button x:ConnectionId='4' Name="ButtonLogin" x:Uid="uidbtnLogin" Background="Azure" Visibility="Visible" Margin="529,15,-540.4,628" 
+                                   FontSize="18" TabIndex="0" Height="125" Width="525" Grid.Column="1">
+            <StackPanel Orientation="Horizontal">
+                <SymbolIcon Symbol="Permissions"/>
+                <TextBlock Margin="5">Sign in using your Azure Account?</TextBlock>
+            </StackPanel>
+        </Button>
 
-        <Button x:ConnectionId='3' x:Name="btnGoToRandom" x:Uid="uidbtnGoToRandom" Content="Want a random Book? Click here!" Background="#33EE40BE" BorderBrush="#FF39498F" HorizontalAlignment="Left" Margin="370,600,-305,0" VerticalAlignment="Top" Height="58" Width="235"                             Grid.Column="1"/>
     </Grid>
 </Page>
 

@@ -1,6 +1,7 @@
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\ApplicationInsights.config
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\App.xbf
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\MainPage.xbf
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\RandomBookGenerator.xbf
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\Book-Selector.xr.xml
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\Book-Selector.exe
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Debug\Book-Selector.pdb
@@ -119,11 +120,15 @@ C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\App.g.i.cs
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\App.g.cs
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\MainPage.g.i.cs
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\MainPage.g.cs
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\RandomBookGenerator.g.i.cs
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\RandomBookGenerator.g.cs
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\XamlTypeInfo.g.cs
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\App.xaml
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\MainPage.xaml
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\RandomBookGenerator.xaml
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\App.xbf
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\MainPage.xbf
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\RandomBookGenerator.xbf
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\XamlSaveStateFile.xml
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\Book-Selector.exe
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Debug\Book-Selector.pdb

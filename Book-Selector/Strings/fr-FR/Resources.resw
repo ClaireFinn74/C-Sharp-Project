@@ -117,12 +117,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="uidbtnBack.Content" xml:space="preserve">
+    <value>Arrière</value>
+    <comment>Naviguer vers MainPage</comment>
+  </data>
+  <data name="uidbtnGoToRandom.Content" xml:space="preserve">
+    <value>Vous voulez un livre aléatoire? Cliquez ici!</value>
+    <comment>Aller à la page Random Book Generator</comment>
+  </data>
+  <data name="uidbtnLogin.Content" xml:space="preserve">
+    <value>Connectez-vous en utilisant votre compte Azure?</value>
+    <comment>Connectez-vous avec Azure</comment>
+  </data>
   <data name="uidbtnRandom.Content" xml:space="preserve">
-    <value>Choisissez un livre au hasard!</value>
-    <comment>Le choix d'un bouton livre aléatoire localisée en français</comment>
+    <value>Double-cliquez sur Choisissez un livre au hasard!</value>
+    <comment>Double-cliquez sur le choix d'un bouton livre aléatoire localisée en français</comment>
   </data>
   <data name="uidbtnSearchAgain.Content" xml:space="preserve">
-    <value>Choisissez un livre au hasard!</value>
+    <value>Double-cliquez sur Choisissez un livre au hasard!</value>
     <comment>Bouton caché derrière touche Random de sorte qu'il a la même Légende</comment>
   </data>
 </root>

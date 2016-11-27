@@ -394,3 +394,17 @@ C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\RandomBookGen
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\RandomBookGenerator.g.cs
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\RandomBookGenerator.xaml
 C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\RandomBookGenerator.xbf
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\System.Net.Http.Extensions.dll
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\System.Net.Http.Primitives.dll
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\Book-Selector.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Login.xbf
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\Book-Selector.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\Login.g.i.cs
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\Login.g.cs
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\Login.xaml
+C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\Login.xbf
