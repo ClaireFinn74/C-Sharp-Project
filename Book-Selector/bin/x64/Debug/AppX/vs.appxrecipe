@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-27T18:20:35.869</Modified>
+      <Modified>2016-11-29T11:43:14.035</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Book-Selector.exe">
       <PackagePath>entrypoint\Book-Selector.exe</PackagePath>
-      <Modified>2016-11-27T18:20:32.799</Modified>
+      <Modified>2016-11-29T11:43:12.516</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -842,7 +842,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Book-Selector.xr.xml">
       <PackagePath>Book-Selector.xr.xml</PackagePath>
-      <Modified>2016-11-27T17:22:09.421</Modified>
+      <Modified>2016-11-27T18:56:48.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -851,11 +851,11 @@
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-27T18:20:35.087</Modified>
+      <Modified>2016-11-29T11:11:11.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Core\Book-Selector.exe">
       <PackagePath>Book-Selector.exe</PackagePath>
-      <Modified>2016-11-27T18:20:35.860</Modified>
+      <Modified>2016-11-29T11:43:14.027</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

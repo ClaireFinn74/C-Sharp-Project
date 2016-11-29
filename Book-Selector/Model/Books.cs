@@ -10,7 +10,7 @@ using Data;
 
 namespace Book_Selector.Model
 {
-    class Books
+    public class Books
     {
         public List<myBooks> Names { get; set; }
         public static List<myBooks> gBookList = new List<myBooks>();
@@ -18,13 +18,14 @@ namespace Book_Selector.Model
 
         public Books()
         {
-            LoadData();
-            Names = gBookList;
+            //LoadData();
+            //Names = gBookList;
         }
 
-        public static async Task LoadData()
+        public static async Task<List<myBooks>> LoadData()
         {
             await LoadLocalData();
+            return gBookList;
         }
 
         public static async Task LoadLocalData()
