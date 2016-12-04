@@ -21,6 +21,7 @@ On this page you will find a button that tells the user to double-click to get a
 *__Before User clicks the Random button:__*
 
 [![FINAL.png](https://s12.postimg.org/ns6n8sqot/FINAL.png)](https://postimg.org/image/v85wulee1/)
+
 *__After User clicks the Random button:__*
 
 [![FINAL2.png](https://s16.postimg.org/5jshq3qr9/FINAL2.png)](https://postimg.org/image/ca8yzjdwx/)
