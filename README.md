@@ -13,15 +13,17 @@ This information is *parsed* in using *JSON* and due to the large volume of info
 I have included a *scrollviewer* so that the user can easily see all of the titles of the books I included.
 [![runningpage1.png](https://s15.postimg.org/53fbpk35n/runningpage1.png)](https://postimg.org/image/tjxhk13w7/)
 There is also a button that navigates the user to the next page where you will find the more fun element to the Book Selector:
+
 __Second Page: *Random Book Generator:*__
 
 On this page you will find a button that tells the user to double-click to get a random book suggestion. To do this, I included within the *xaml.cs*; a *randomizer array* that includes all 58 books. I then created an if/else statement for each book so that when the random array picks that book, the image for that particular book is displayed also.
+
 *__Before User clicks the Random button:__*
 
-[![runningpage2.png](https://s17.postimg.org/3o335hhjj/runningpage2.png)](https://postimg.org/image/gs8ni69l7/)
+[![FINAL.png](https://s12.postimg.org/ns6n8sqot/FINAL.png)](https://postimg.org/image/v85wulee1/)
 *__After User clicks the Random button:__*
 
-[![randombook.png](https://s11.postimg.org/gasze7kw3/randombook.png)](https://postimg.org/image/3w67dvtdr/)
+[![FINAL2.png](https://s16.postimg.org/5jshq3qr9/FINAL2.png)](https://postimg.org/image/ca8yzjdwx/)
 
 ## Authentication - Azure Active Directory:
 
