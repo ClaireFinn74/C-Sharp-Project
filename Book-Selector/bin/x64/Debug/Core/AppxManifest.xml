@@ -7,11 +7,11 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="Book-Selector" Publisher="CN=owner" Version="1.0.0.0" ProcessorArchitecture="x64" />
+  <Identity Name="32559ClaireFinn.Book-Selector" Publisher="CN=549E6BF1-DBDC-495E-BD71-FCAA3691BCED" Version="1.1.8.0" ProcessorArchitecture="x64" />
   <mp:PhoneIdentity PhoneProductId="f3e68e7a-1f7d-4def-8c08-65facd5e717d" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Book-Selector</DisplayName>
-    <PublisherDisplayName>owner</PublisherDisplayName>
+    <PublisherDisplayName>Claire Finn</PublisherDisplayName>
     <Logo>Assets\Logo.png</Logo>
   </Properties>
   <Dependencies>

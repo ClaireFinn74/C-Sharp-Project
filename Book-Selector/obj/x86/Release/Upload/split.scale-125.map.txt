@@ -1,0 +1,10 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-125"
+"ResourceDimensions"		"scale-125"
+
+[Files]
+"C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Release\Upload\split.scale-125.pri"			"resources.pri"
+"C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Release\PackageUploadLayout\Assets\StoreLogo.scale-125.png"			"Assets\StoreLogo.scale-125.png"
+"C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Release\PackageUploadLayout\Assets\SplashScreen.scale-125.png"			"Assets\SplashScreen.scale-125.png"
+"C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Release\PackageUploadLayout\Assets\Logo.scale-125.png"			"Assets\Logo.scale-125.png"
+"C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x86\Release\PackageUploadLayout\Assets\BadgeLogo.scale-125.png"			"Assets\BadgeLogo.scale-125.png"

@@ -1,0 +1,2 @@
+MainPackage=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x86\Release\Upload\Book-Selector_1.1.8.0_x86.appx
+SymbolPackage=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\AppPackages\Book-Selector_1.1.8.0\Book-Selector_1.1.8.0_x86.appxsym

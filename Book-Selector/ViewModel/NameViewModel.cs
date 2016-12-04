@@ -18,6 +18,7 @@ namespace Book_Selector.ViewModel
 
         public NameViewModel()
         {
+            //Changing this below
             //Model.Books test = new Model.Books();
 
             //foreach (var book in test.Names)

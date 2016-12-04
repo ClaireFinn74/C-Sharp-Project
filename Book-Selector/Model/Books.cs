@@ -12,18 +12,22 @@ namespace Book_Selector.Model
 {
     public class Books
     {
+        //Make a List of books
         public List<myBooks> Names { get; set; }
         public static List<myBooks> gBookList = new List<myBooks>();
         public String BookName { get; set; }
 
         public Books()
         {
+            //changing this to handle async/await fix
             //LoadData();
             //Names = gBookList;
         }
 
+        //Make an async method to load the data
         public static async Task<List<myBooks>> LoadData()
         {
+            //await
             await LoadLocalData();
             return gBookList;
         }

@@ -9,32 +9,32 @@
     <SolutionConfiguration>Debug|x64</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>f3e68e7a-1f7d-4def-8c08-65facd5e717d</PackageIdentityName>
-    <PackageIdentityPublisher>CN=owner</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=549E6BF1-DBDC-495E-BD71-FCAA3691BCED</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>22A779654ED7B28E9A2A448689E8DCCB6F40CB88CA13D6A04459A5B31B36E3DB</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>Book-Selector_1.0.0.0_x64__xp10nbj12f0ca</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>Book-Selector_xp10nbj12f0ca!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>Book-Selector</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=owner</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredManifestChecksum>2EF4978F33553A38626CB5293E812ED6B18185A166664A820ECB46DDE13BD6BD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32559ClaireFinn.Book-Selector_1.1.8.0_x64__akrh32p95hdx0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>32559ClaireFinn.Book-Selector_akrh32p95hdx0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>32559ClaireFinn.Book-Selector</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=549E6BF1-DBDC-495E-BD71-FCAA3691BCED</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.8.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-29T11:43:14.035</Modified>
+      <Modified>2016-12-04T14:01:45.560</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Book-Selector.exe">
       <PackagePath>entrypoint\Book-Selector.exe</PackagePath>
-      <Modified>2016-11-29T11:43:12.516</Modified>
+      <Modified>2016-12-04T13:06:43.310</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -487,32 +487,52 @@
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\BadgeLogo.scale-100.png">
       <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T19:23:39.047</Modified>
+      <Modified>2016-12-04T13:00:40.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\BadgeLogo.scale-125.png">
       <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T19:23:39.054</Modified>
+      <Modified>2016-12-04T13:00:52.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\BadgeLogo.scale-150.png">
       <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T19:23:39.066</Modified>
+      <Modified>2016-12-04T13:01:03.158</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\BadgeLogo.scale-200.png">
       <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T19:23:39.074</Modified>
+      <Modified>2016-12-04T13:01:15.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\BadgeLogo.scale-400.png">
       <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T19:23:39.083</Modified>
+      <Modified>2016-12-04T13:01:32.923</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-10-31T19:23:39.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Logo.scale-125.png">
+      <PackagePath>Assets\Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-30T12:38:56.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Logo.scale-150.png">
+      <PackagePath>Assets\Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-30T12:37:35.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Logo.scale-200.png">
+      <PackagePath>Assets\Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-30T12:36:39.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Logo.scale-400.png">
+      <PackagePath>Assets\Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-30T12:34:50.630</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
@@ -539,20 +559,20 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-10-31T19:23:39.152</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square310x310Logo.scale-100.png">
-      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square310x310Logo.scale-200.png">
+      <PackagePath>Assets\Square310x310Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T19:23:39.169</Modified>
+      <Modified>2016-11-30T12:58:53.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-10-31T19:23:39.188</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square71x71Logo.scale-100.png">
-      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Square71x71Logo.scale-200.png">
+      <PackagePath>Assets\Square71x71Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T19:23:39.192</Modified>
+      <Modified>2016-11-30T12:14:02.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
@@ -561,11 +581,6 @@
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <Modified>2016-10-31T19:23:39.222</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Assets\Wide310x150Logo.scale-100.png">
-      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T19:23:39.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\Images\LifeOfPi.png">
       <PackagePath>Images\LifeOfPi.png</PackagePath>
@@ -851,11 +866,11 @@
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-29T11:11:11.355</Modified>
+      <Modified>2016-12-04T14:01:43.925</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\x64\Debug\Core\Book-Selector.exe">
       <PackagePath>Book-Selector.exe</PackagePath>
-      <Modified>2016-11-29T11:43:14.027</Modified>
+      <Modified>2016-12-04T14:01:45.548</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

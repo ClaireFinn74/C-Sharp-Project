@@ -1,0 +1,10 @@
+MainPackage=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\ARM\Release\Book-Selector_1.1.8.0_ARM.appx
+SymbolPackage=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\AppPackages\Book-Selector_1.1.8.0_Test\Book-Selector_1.1.8.0_ARM.appxsym
+ResourcePack=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\ARM\Release\Book-Selector_1.1.8.0_language-es.appx
+ResourcePack=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\ARM\Release\Book-Selector_1.1.8.0_language-fr.appx
+ResourcePack=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\ARM\Release\Book-Selector_1.1.8.0_language-ga.appx
+ResourcePack=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\ARM\Release\Book-Selector_1.1.8.0_language-it.appx
+ResourcePack=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\ARM\Release\Book-Selector_1.1.8.0_scale-100.appx
+ResourcePack=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\ARM\Release\Book-Selector_1.1.8.0_scale-125.appx
+ResourcePack=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\ARM\Release\Book-Selector_1.1.8.0_scale-150.appx
+ResourcePack=C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\bin\ARM\Release\Book-Selector_1.1.8.0_scale-400.appx

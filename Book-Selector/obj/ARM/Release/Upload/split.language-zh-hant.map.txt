@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hant"
+"ResourceDimensions"		"language-zh-tw"
+
+[Files]
+"C:\Users\owner\Desktop\C-Sharp-Project\Book-Selector\obj\ARM\Release\Upload\split.language-zh-hant.pri"			"resources.pri"
