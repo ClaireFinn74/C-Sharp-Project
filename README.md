@@ -32,6 +32,11 @@ Another function available to the user of my *Book_Selector* app is the ability 
 A button can be pressed and a pop-up will appear where the user can sign in with their Azure username and password and then that user will be cached and remembered for future use of the app.
 [![authentication.png](https://s13.postimg.org/mm1n2i9p3/authentication.png)](https://postimg.org/image/vttvj7gr7/)
 
+## App store:
+My app has been associated with the app store and has been given the name *Book_Selector* and the *App Packages* for the app have also been created.
+Now I'm just waiting for the app to be certified to go onto the app store.
+
+[![Certification.png](https://s16.postimg.org/ky5c7c6sl/Certification.png)](https://postimg.org/image/ao2x83gwx/)
 
 ## Issues I overcame:
 
